@@ -63,26 +63,32 @@ Prerequisites
 
 Installation
 -------------
-1. Open the project directory
+1. **Open the project directory**
+   ```bash
    cd project
 
-2. Create virtual environment
+2. **Create virtual environment**
+   ```bash 
    python3 -m venv venv
    .\venv\Scripts\Activate
 
-3. Install dependencies
+3. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
 
 Basic Usage
 ------------
-1. Train the DeepViNE agent
+1. **Train the DeepViNE agent**
+   ```bash
    cd experiments
    python train_improved.py
 
-2. Evaluate performance against baselines
+2. **Evaluate performance against baselines**
+   ```bash
    python final_comparison.py
 
-3. Generate plots of blocking probability
+3. **Generate plots of blocking probability**
+   ```bash
    python blocking_probability.py
 
 --------------------------------------------------------------------------------

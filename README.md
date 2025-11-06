@@ -65,8 +65,8 @@ Installation
 -------------
 1. **Clone github repository**
    ```bash
-   git clone 
-   cd project
+   git clone https://github.com/Kranthikiran2005/DeepViNE.git
+   cd DeepViNE
 
 2. **Create virtual environment**
    ```bash 

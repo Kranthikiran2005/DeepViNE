@@ -63,14 +63,16 @@ Prerequisites
 
 Installation
 -------------
-1. **Open the project directory**
+1. **Clone github repository**
    ```bash
+   git clone 
    cd project
 
 2. **Create virtual environment**
    ```bash 
    python3 -m venv venv
-   .\venv\Scripts\Activate
+   .\venv\Scripts\Activate (if you're using Windows)
+   source venv/bin/activate (if you're using Linux/macOS)
 
 3. **Install dependencies**
    ```bash

@@ -22,7 +22,7 @@ Key Features
 PROJECT STRUCTURE
 --------------------------------------------------------------------------------
 
-'''
+```
 deepvine_project/
 ├── experiments/                    # Training and evaluation scripts
 │   ├── train_improved.py          # Main training script
@@ -44,7 +44,7 @@ deepvine_project/
     └── models/                    # Neural network models
         ├── dqn.py                 # Deep Q-Network architecture
         └── state_encoder.py       # Image-based state encoding
-'''
+```
 
 --------------------------------------------------------------------------------
 QUICK START

@@ -1,1 +1,1 @@
-contains trianing logs
+contains training logs
